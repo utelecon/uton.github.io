@@ -28,9 +28,7 @@ Then, the following screen will be displayed.
 
 The account holder can add, edit, move, and delete files, as well as share files and folders.
 
-<figure>
-<img src="pic1.png">
-</figure>
+![](img/pic1.png)
 
 * **(1) Candidate List**: This shows shared items and files in shared drives in addition to files in My Drive. Information on when the file was last edited and the editor is shown below the file name.
 * **(2) Folders**: A list of folders that you have created will be displayed here. However, even if you are not the creator, files uploaded through other Google applications (e.g. Google Classroom) may be automatically grouped into folders.
@@ -50,9 +48,7 @@ For more details about the use of Google Drive, please refer to the official sup
  
 With a shared drive, you can manage files in the drive within your organization. The administrator can grant 5 levels of permissions to members, and can set permissions based on the user's affiliation and job description. If you log in with your ECCS Cloud Email Account, you can use the university shared drive. However, if you log in with your personal account, you are restricted from accessing it.
 
-<figure>
-<img src="pic2.png">
-</figure>
+![](img/pic2.png)
 
 Shared drives access levels:
 	
@@ -94,7 +90,7 @@ This section explains how to set the sharing options in My Drive.
    2. Select or create the file you want to share. If you are creating a file, click the New button in the upper left corner and create the necessary file. 
    3. When the file you want to share is selected, click the share icon. 
 2. **Share the file**: You can share the file by registering the Google account of the person you want to share with, or simply by copying the link and sending it to that person. 
-3. **Choose who you want to share the file with and what permissions they have**: After Step 1, click the "Change" button under the "Get Link" column to change the permissions of the person you want to share the file with. <img src="pic3.png">
+3. **Choose who you want to share the file with and what permissions they have**: After Step 1, click the "Change" button under the "Get Link" column to change the permissions of the person you want to share the file with. ![](img/pic3.png)
     1.You can choose who to share the file with from the following. However, we do not recommend the "only those who know the link" restriction, because it is the same as public sharing if even one of those people divulges the link. Also, you can easily manage permissions by creating folders with different sharing ranges depending on the purpose, and creating files under those folders, rather than setting sharing settings for each file.  
        * University of Tokyo ECCS Cloud Email: All users who are logged in with University of Tokyo ECCS Cloud Email and know the link can view it.  
        * Restricted: A setting that allows only specific people to share the link (a setting that allows only individual users or group members to view the link).  
@@ -109,10 +105,13 @@ This section explains how to set the sharing options in My Drive.
 
 The following is an explanation of the process of sharing documents in actual classes. Please try it for group work. 
 
-1. **Create a shared drive**: Log in to [My Drive - Google Drive](https://drive.google.com/drive/u/0/my-drive) using your university Google account (ECCS Cloud Email Account), select the shared drive, and create a new shared folder.<img src="pic4.png"> 
-2. **Register members and set their permissions**: Open the shared folder you created and click the Manage Members button at the top right to register the ECCS Cloud Email Accounts of all the members you want to share with. Then set up the members’ permission. <br> Please note that free individual accounts can also be added as members, but not as administrators. <br>  (For more information on permission, see the [above section](#share_drive)). <img src="xxxx.png">
-3. **Setting up the shared drive**: Click the setting icon displayed in the upper right corner of the screen when managing members in Step 2 to set up the shared drive. <img src="pic6.png"> 
-4. **How to share documents**: Open the shared folder, click the "New" button on the upper left, and then select the google tool you want to use. <img src="pic7.png">
+1. **Create a shared drive**: Log in to [My Drive - Google Drive](https://drive.google.com/drive/u/0/my-drive) using your university Google account (ECCS Cloud Email Account), select the shared drive, and create a new shared folder.![](img/pic4.png)
+2. **Register members and set their permissions**: Open the shared folder you created and click the Manage Members button at the top right to register the ECCS Cloud Email Accounts of all the members you want to share with. Then set up the members’ permission. <br> Please note that free individual accounts can also be added as members, but not as administrators. <br>  (For more information on permission, see the [above section](#share_drive)). 
+![](img/pic5.png)
+3. **Setting up the shared drive**: Click the setting icon displayed in the upper right corner of the screen when managing members in Step 2 to set up the shared drive. 
+![](img/pic6.png)
+4. **How to share documents**: Open the shared folder, click the "New" button on the upper left, and then select the google tool you want to use. 
+![](img/pic7.png)
 
 
 (Caution) Setup in Step 2 and Step 3 can be changed later, but only the administrator can make these changes.

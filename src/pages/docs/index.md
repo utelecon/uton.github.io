@@ -9,7 +9,7 @@ title: 各種方針等
     - 参考：[授業URLの連絡方法（学生向け）](/oc/url)
 - [授業におけるZoom会議室の入室制限（教員向け）](/faculty_members/zoom_access_control)
 
-## その他
+## その
 
 - [東京大学のBYOD方針](/docs/byod)
 - [生成AI（ChatGPT等）関連情報](/online/topics/generative-ai)

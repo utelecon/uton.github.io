@@ -3,6 +3,7 @@ title: ITC-LMS
 ---
 
 ## ITC-LMSとは
+<div class="box">**ITC-LMSは，2024年2月をもってサービスを終了しました．また，2024年3月1日より新しいLMSとしてUTOL（UTokyo LMS）の運用を開始しました．詳細については，[UTOL（UTokyo LMS）](/utol/)のページをご覧ください．**</div>
 
 [ITC-LMS](https://itc-lms.ecc.u-tokyo.ac.jp/)は東京大学の学習管理システムです．授業資料の配布・課題提出・オンライン試験・教員から学生へのお知らせ通知などの機能があります．
 

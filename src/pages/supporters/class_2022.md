@@ -1,5 +1,6 @@
 ---
 title: クラスサポーター制度のご案内
+redirect_from: /supporters/class
 ---
 
 <B><font size="5">クラスサポーター制度は令和５年３月３１日をもって終了いたしました.<br>

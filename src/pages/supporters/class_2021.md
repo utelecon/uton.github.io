@@ -1,5 +1,6 @@
 ---
 title: クラスサポーター制度のご案内
+redirect_from: /supporters/class_a
 ---
 
 <div style="border: solid 4px red;">

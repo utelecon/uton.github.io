@@ -22,6 +22,14 @@
     @include box--bold;
     color: $red;
   }
+
+  &--permission {
+    @include box;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border-color: $header-background-color-primary;
+    border-width: 2px;
+  }
 }
 
 strong.box,
